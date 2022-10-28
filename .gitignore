@@ -1,0 +1,7 @@
+.DS_Store
+.vector_cache
+
+__pycache__
+
+model_checkpoints
+preprocessed_tweet_data
