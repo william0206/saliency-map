@@ -6,6 +6,7 @@ This repository contains the source code of the saliency map, visualizing the am
 
 ## The saliency map
 ![image](https://github.com/william0206/saliency-map/blob/main/saliency_map_img.png)
+
 Check [this notebook](https://nbviewer.org/github/william0206/saliency-map/blob/main/saliency_map.ipynb) for the step-by-step saliency map implementation of the neural text classifier (*Bi-LSTM*) using PyTorch.
 
 ### Note
